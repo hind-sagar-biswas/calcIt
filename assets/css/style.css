@@ -1,0 +1,17 @@
+#screen{
+		background: #0d0f13;
+		height: 20vh;
+		position: relative;
+}
+#calcu{
+		height: 10vh;
+		color: white;
+		font-size: 1.7em;
+}
+#calc{
+		text-align: right;
+}
+#result{
+		height: 18%;
+		color: white;
+}
