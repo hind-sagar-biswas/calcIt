@@ -1,0 +1,2 @@
+# calcIt
+Simple JavaScript Calculator
