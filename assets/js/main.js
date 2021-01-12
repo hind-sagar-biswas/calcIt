@@ -35,7 +35,7 @@ function calc(a) {
 						}
 						document.getElementById('result').innerHTML = result;
 						if(i == 2) {
-								i = 0;
+								i = 1;
 						}
 				} else {
 						math = math + a.toString()
