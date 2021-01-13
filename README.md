@@ -21,6 +21,10 @@ Simple JavaScript Calculator
 
 * Decimal Calculations
 
+* Negative Calculations
+
+* Result Round Up and Exponential Conversion
+
 * Most used Constants
 
 ## Languages
