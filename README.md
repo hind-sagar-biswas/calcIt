@@ -3,7 +3,7 @@ Simple JavaScript Calculator
 
 ## Screenshot
 
-![Mobile View of CalcIt v1.0](https://github.com/hind-sagar-biswas/calcIt/blob/main/assets/images/screenshot1.jpeg)
+![Mobile View of CalcIt v1.2](https://github.com/hind-sagar-biswas/calcIt/blob/main/assets/images/screenshot1.jpeg)
 
 ## Features
 
@@ -23,9 +23,11 @@ Simple JavaScript Calculator
 
 * Negative Calculations
 
+* Factorial
+
 * Result Round Up and Exponential Conversion
 
-* Most used Constants
+* Most used Constants (π, e, g, G, c)
 
 ## Languages
 
