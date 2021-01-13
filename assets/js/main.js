@@ -187,6 +187,7 @@ function ans() {
 }
 
 function eng() {
+
 		result = result.toExponential();
 		document.getElementById('calc').innerHTML =  result;
 }
@@ -194,4 +195,5 @@ function eng() {
 function rnd() {
 		result = Math.round(result);
 		document.getElementById('calc').innerHTML =  result;
+		
 }
