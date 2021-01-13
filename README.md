@@ -1,15 +1,9 @@
-# calcIt
+# calcIt v1.2
 Simple JavaScript Calculator
 
 ## Screenshot
 
-* Basic Theme
-
 ![Mobile View of CalcIt v1.0](https://github.com/hind-sagar-biswas/calcIt/blob/main/assets/images/screenshot1.jpeg)
-
-* Pink Theme
-
-![Mobile View of CalcIt Pink Theme](https://github.com/hind-sagar-biswas/calcIt/blob/main/assets/images/screenshot2.jpeg)
 
 ## Features
 
@@ -21,9 +15,13 @@ Simple JavaScript Calculator
 
 * Division
 
+* Square and Cube
+
 * Exponential Operation
 
 * Decimal Calculations
+
+* Most used Constants
 
 ## Languages
 
