@@ -1,9 +1,13 @@
 # calcIt v1.2
 Simple JavaScript Calculator
 
-## Screenshot
+## Demo
 
-![Mobile View of CalcIt v1.2](https://github.com/hind-sagar-biswas/calcIt/blob/main/assets/images/screenshot1.jpeg)
+For live demo [Click Here](https://hind-sagar-biswas.github.io/calcIt/) or
+
+visit: [https://hind-sagar-biswas.github.io/calcIt/](https://hind-sagar-biswas.github.io/calcIt/)
+
+Screenshot is given at the end of **README.md**
 
 ## Features
 
@@ -44,3 +48,7 @@ Simple JavaScript Calculator
 ## Licence
 
 This code has been licenced under MIT open source license.
+
+## Screenshot
+
+![Mobile View of CalcIt v1.2](https://github.com/hind-sagar-biswas/calcIt/blob/main/assets/images/screenshot1.jpeg)
